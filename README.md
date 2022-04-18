@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a tech enthusiast who enjoys programming things that help me in my day-to-day life. Be it making a dashboard to help me with exploratory data analysis or to make a custom OS which helps me to understand how a phone works. 
+
+- 🔭 I’m currently working with Merlyn Mind on making their custom OS to bring AI solutions in classrooms with our SymphonyClassroom™️
+- 🌱 I’m currently learning python and rust. Rust seems to have a promising future and I would like to be a part of that someday.
+- 👯 I’m looking to collaborate on linux kernel and machine learning projects. 
+- 🤔 I’m looking for help with the DevOps stuff which I am a noob at. I would like some help with how to get a website/pipeline up and running. 
+- 💬 Ask me anything about tech and Android OS. 
+- 📫 How to reach me: @pranavthombare for Telegram, Instagram and Unsplash. Can mail me at the address on my profile.
+- ⚡ Fun fact: I know how to use nunchucks and I have trekked the Everest Base Camp.
+
 <!--
 **pranavthombare/pranavthombare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
